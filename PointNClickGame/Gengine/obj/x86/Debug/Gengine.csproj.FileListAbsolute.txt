@@ -8,3 +8,13 @@ C:\Users\Stijn\Documents\Visual Studio 2010\Projects\PointNClickGame\Gengine\bin
 C:\Users\Stijn\Documents\Visual Studio 2010\Projects\PointNClickGame\Gengine\obj\x86\Debug\Gengine.dll
 C:\Users\Stijn\Documents\Visual Studio 2010\Projects\PointNClickGame\Gengine\obj\x86\Debug\Gengine.pdb
 C:\Users\Stijn\Documents\Visual Studio 2010\Projects\PointNClickGame\Gengine\obj\x86\Debug\Gengine.csprojResolveAssemblyReference.cache
+C:\Users\Stijn\Documents\Visual Studio 2010\Projects\AdventureGame\PointNClickGame\Gengine\bin\WindowsGL\Debug\SDL.dll
+C:\Users\Stijn\Documents\Visual Studio 2010\Projects\AdventureGame\PointNClickGame\Gengine\bin\WindowsGL\Debug\Lidgren.Network.dll
+C:\Users\Stijn\Documents\Visual Studio 2010\Projects\AdventureGame\PointNClickGame\Gengine\bin\WindowsGL\Debug\MonoGame.Framework.dll
+C:\Users\Stijn\Documents\Visual Studio 2010\Projects\AdventureGame\PointNClickGame\Gengine\bin\WindowsGL\Debug\OpenTK.dll
+C:\Users\Stijn\Documents\Visual Studio 2010\Projects\AdventureGame\PointNClickGame\Gengine\bin\WindowsGL\Debug\Tao.Sdl.dll
+C:\Users\Stijn\Documents\Visual Studio 2010\Projects\AdventureGame\PointNClickGame\Gengine\obj\x86\Debug\Gengine.csprojResolveAssemblyReference.cache
+C:\Users\Stijn\Documents\Visual Studio 2010\Projects\AdventureGame\PointNClickGame\Gengine\obj\x86\Debug\Gengine.dll
+C:\Users\Stijn\Documents\Visual Studio 2010\Projects\AdventureGame\PointNClickGame\Gengine\obj\x86\Debug\Gengine.pdb
+C:\Users\Stijn\Documents\Visual Studio 2010\Projects\AdventureGame\PointNClickGame\Gengine\bin\WindowsGL\Debug\Gengine.dll
+C:\Users\Stijn\Documents\Visual Studio 2010\Projects\AdventureGame\PointNClickGame\Gengine\bin\WindowsGL\Debug\Gengine.pdb

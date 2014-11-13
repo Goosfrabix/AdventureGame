@@ -10,3 +10,15 @@ C:\Users\Stijn\Documents\Visual Studio 2010\Projects\PointNClickGame\PointNClick
 C:\Users\Stijn\Documents\Visual Studio 2010\Projects\PointNClickGame\PointNClickGame\obj\x86\Debug\PointNClickGame.csprojResolveAssemblyReference.cache
 C:\Users\Stijn\Documents\Visual Studio 2010\Projects\PointNClickGame\PointNClickGame\obj\x86\Debug\PointNClickGame.exe
 C:\Users\Stijn\Documents\Visual Studio 2010\Projects\PointNClickGame\PointNClickGame\obj\x86\Debug\PointNClickGame.pdb
+C:\Users\Stijn\Documents\Visual Studio 2010\Projects\AdventureGame\PointNClickGame\PointNClickGame\obj\x86\Debug\PointNClickGame.csprojResolveAssemblyReference.cache
+C:\Users\Stijn\Documents\Visual Studio 2010\Projects\AdventureGame\PointNClickGame\PointNClickGame\bin\WindowsGL\Debug\SDL.dll
+C:\Users\Stijn\Documents\Visual Studio 2010\Projects\AdventureGame\PointNClickGame\PointNClickGame\bin\WindowsGL\Debug\PointNClickGame.exe
+C:\Users\Stijn\Documents\Visual Studio 2010\Projects\AdventureGame\PointNClickGame\PointNClickGame\bin\WindowsGL\Debug\PointNClickGame.pdb
+C:\Users\Stijn\Documents\Visual Studio 2010\Projects\AdventureGame\PointNClickGame\PointNClickGame\bin\WindowsGL\Debug\Gengine.dll
+C:\Users\Stijn\Documents\Visual Studio 2010\Projects\AdventureGame\PointNClickGame\PointNClickGame\bin\WindowsGL\Debug\Lidgren.Network.dll
+C:\Users\Stijn\Documents\Visual Studio 2010\Projects\AdventureGame\PointNClickGame\PointNClickGame\bin\WindowsGL\Debug\MonoGame.Framework.dll
+C:\Users\Stijn\Documents\Visual Studio 2010\Projects\AdventureGame\PointNClickGame\PointNClickGame\bin\WindowsGL\Debug\OpenTK.dll
+C:\Users\Stijn\Documents\Visual Studio 2010\Projects\AdventureGame\PointNClickGame\PointNClickGame\bin\WindowsGL\Debug\Tao.Sdl.dll
+C:\Users\Stijn\Documents\Visual Studio 2010\Projects\AdventureGame\PointNClickGame\PointNClickGame\bin\WindowsGL\Debug\Gengine.pdb
+C:\Users\Stijn\Documents\Visual Studio 2010\Projects\AdventureGame\PointNClickGame\PointNClickGame\obj\x86\Debug\PointNClickGame.exe
+C:\Users\Stijn\Documents\Visual Studio 2010\Projects\AdventureGame\PointNClickGame\PointNClickGame\obj\x86\Debug\PointNClickGame.pdb
